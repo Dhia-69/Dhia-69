@@ -2,7 +2,7 @@
 
 ## 🌟 Data Engineer | Data Science Enthusiast | Artificial Intelligence Enthusiast   
 
-Passionate about data engineering, data science, artificial intelligence, and software development, I bring a versatile skill set in programming, data science, and big data technologies. I am currently pursuing my engineering degree in Data Engineering at the Faculty of Science in Sfax, Tunisia, and actively seeking a 6-month internship to expand my professional expertise.  
+Passionate about data engineering, data science, artificial intelligence, and software development, I bring a versatile skill set in programming, data science, and big data technologies. I am currently pursuing my engineering degree in Data Engineering at the Faculty of Science in Sfax, Tunisia.  
 
 ---
 
