@@ -1,77 +1,103 @@
-# Dhia Elhak Toukebri
+# Dhia Elhak Toukebri  
+**Data Scientist | Data Engineer | AI Engineer**
 
-## 🌟 Data Engineer | Data Science Enthusiast | Artificial Intelligence Enthusiast   
+Jeune diplômé en Data Engineering et actuellement étudiant en Master 2 IA & Data Science à l'Université de Montpellier, passionné par l'intelligence artificielle et la science des données. À la recherche d'un stage de fin d'études dans ce domaine.
 
-Passionate about data engineering, data science, artificial intelligence, and software development, I bring a versatile skill set in programming, data science, and big data technologies. I am currently pursuing my engineering degree in Data Engineering at the Faculty of Science in Sfax, Tunisia.  
+## 🎓 Éducation
 
----
+| Formation | Établissement | Période |
+|-----------|---------------|---------|
+| **Master 2 - Intelligence Artificielle et Data Science** | Faculté des Sciences de Montpellier, France | 2025 – 2026 |
+| **Cycle d'Ingénieur en Data Engineering** | Faculté des Sciences de Sfax, Tunisie | 2022 – 2025 |
+| **Cycle Préparatoire Intégrée en Computer Science** | Faculté des Sciences de Sfax, Tunisie | 2020 – 2022 |
 
-## 🛠️ Skills  
+## 💼 Expériences Professionnelles
 
-**Programming:** Python, Java, C, C++, C#, JavaScript  
-**Databases:** SQL, MongoDB  
-**Machine & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch  
-**Data Visualization:** Matplotlib, Seaborn  
-**Data Manipulation:** Pandas, NumPy  
-**Web Development:** Angular, .NET, Spring Boot, Node.js, Flask  
-**Big Data:** Apache Spark, Hadoop  
-**Tools:** Docker, GitHub, GitLab, Postman, Swagger, BeautifulSoup, PowerBI  
-**Soft Skills:** Leadership, Teamwork, Discipline, Creativity, Communication  
+### 🤖 AI Engineer
+**Sofrecom** | Sfax, Tunisie | Fév 2025 – Août 2025
+- Conception et déploiement d'un Chatbot Intelligent pour la génération de requêtes SQL via Prompt Engineering et NLP
+- Optimisation de modèles LLM avec un taux de réussite de 97% sur 95 questions métier
+- Développement d'une interface interactive avec Streamlit et conteneurisation via Docker
+- **Technologies:** Python, Ollama, Transformers, LangChain, Streamlit, Docker, MariaDB, GCP
 
----
+### 📊 Data Scientist
+**Sofrecom** | Tunis, Tunisie | Juil 2024 – Sept 2024
+- Développement d'une application web de contrôle parental avec classification de contenu Adulte via IA
+- Gestion du cycle de vie des données (textes, images, audios) et développement de modèles ML/DL
+- Précisions obtenues : 92% (textes), 97% (images), 94,5% (audios)
+- **Technologies:** Python, TensorFlow, Keras, Flask, MongoDB, Hugging Face, Scikit-learn, Librosa, spaCy
 
-## 💼 Professional Experiences  
+### 💻 Développeur Full-Stack
+**AheadIT** | Tunis, Tunisie | Juin 2023 – Août 2023
+- Développement de deux applications web en architecture 3 tiers MVC
+- Conception de bases de données et développement d'APIs REST
+- **Technologies:** SQL Server, C#, TypeScript, Angular, ASP.NET, Postman, Swagger
 
-### **Data Scientist Intern**  
-**Sofrecom | Tunis, Tunisia** (07/2024 - 09/2024)  
-- Developed a parental control web application using AI to classify adult content.  
-- Managed data lifecycle for 28,000 texts, 32,832 images, and 1,000 audio clips.  
-- Achieved ML/DL model precision of 92% for texts, 97% for images, and 94.5% for audio content.  
+## 🚀 Projets Académiques
 
-### **Full-Stack Developer Intern**  
-**AheadIT | Tunis, Tunisia** (06/2023 - 08/2023)  
-- Built two web applications for material and project management.  
-- Designed databases and tested REST APIs.  
+### 🕵️ Analyse de fraude dans les transactions - Big Data
+- Détection de transactions frauduleuses en temps réel avec Kafka, Hadoop, Hive et Airflow
+- Orchestration et visualisation des résultats via Superset
+- **Stack:** Python, VirtualBox, Kafka, Hadoop, YARN, Hive, Airflow, Hue, Superset, ZooKeeper
 
----
+### ♻️ Recyclage d'objets - Computer Vision
+- Classification automatique des déchets via techniques de vision par ordinateur (HOG, LVP, Transformers)
+- Comparaison de méthodes hand-crafted et deep learning
+- **Stack:** Python, HOG, LVP, Transformers, TensorFlow/PyTorch, OpenCV, Pickle
 
-## 📚 Academic Projects  
+### 🏥 Classification de vocabulaire de santé - NLP
+- Web scraping d'articles de santé, prétraitement et modélisation avec TF-IDF et Word2Vec
+- Précision de 93% pour la classification santé/non-santé
+- **Stack:** Python, TF-IDF, Word2Vec, Regex, Streamlit, scikit-learn
 
-- **Emotion Recognition via Facial Analysis** (04/2024 - 06/2024)  
-  Developed a real-time emotion detection system with <50 ms latency and achieved +100 images/second processing rate using OpenCV and DeepFace.  
+### 📉 Churn Client-Enterprise - Data Science
+- Prédiction de churn avec SVM (78%), KNN (81%), Gradient Boosting (80%), TabNet (79%)
+- **Stack:** Python, Scikit-learn, TensorFlow, PyTorch, Pandas
 
-- **Health Vocabulary Classification Using NLP** (03/2024 - 04/2024)  
-  Built a health classification model with 93% accuracy, leveraging TF-IDF and Word2Vec embeddings.  
+## 🛠️ Compétences
 
-- **Client Churn Prediction** (02/2024 - 04/2024)  
-  Optimized churn prediction models: SVM (78%), KNN (81%), Gradient Boosting (80%), TabNet Classifier (79%).  
+### 💻 Programming
+**Python**, Java, C, C#, JavaScript, TypeScript
 
-- **Pneumonia Chest X-Ray Classification** (11/2023 - 01/2024)  
-  Designed a CNN model from scratch (62% accuracy) and compared it with InceptionV3 (85%) and MobileNetV2 (82%).  
+### 🤖 AI/ML
+Scikit-learn, TensorFlow, Keras, PyTorch, Transformers, LLMs, NLP
 
----
+### 📊 Big Data
+Hadoop, Hive, Kafka, Airflow, Superset, YARN
 
-## 🌐 Languages  
+### 🗄️ Databases
+SQL, MongoDB, MariaDB
 
-- English (B2)  
-- French (B2)  
-- Arabic (Native)  
-- German (A2)  
+### 🌐 Web Development
+Angular, .NET, Flask, Spring Boot
 
----
+### 🔧 Tools
+Docker, Git, Postman, Streamlit, OpenCV, Librosa, spaCy
 
-## 🎯 Interests  
+### 💡 Soft Skills
+Leadership, Teamwork, Discipline, Creativity, Communication, Organisation
 
-- Leadership through Scouting (2014-2024)  
-- Sports: Gym, Swimming, Football, Padel, Basketball, Ping-Pong  
-- IEEE Member (2020-2023)  
+## 🌍 Langues
 
----
+| Langue | Niveau |
+|--------|---------|
+| **Arabe** | Natif |
+| **Français** | TCF B2 |
+| **Anglais** | B2 |
 
-## 📫 Contact  
+## 📜 Certifications
 
-- **Email:** dhiatoukebri@gmail.com  
-- **Phone:** +216 56 810 124  
-- **LinkedIn:** [Dhia Elhak Toukebri](https://www.linkedin.com/in/dhia-elhak-toukebri/)  
+- **ETL and Data Pipelines with Shell, Airflow, and Kafka** (IBM)
+- **Data Scientist Associate** (DataCamp)
 
----
+## 🧩 Centres d'intérêt
+
+- 🏕️ Chef Scout (2014 – 2024)
+- 🔬 Membre IEEE (2020 – 2023)
+- 🏋️ Sports : Musculation, Natation, Football, Padel, Basket, Ping-pong
+
+## 📬 Contact
+
+- **📧 Email:** dhiatoukebri@gmail.com
+- **📞 Téléphone:** +33 7 66 42 52 32
+- **💼 LinkedIn:** [linkedin.com/in/dhia-elhak-toukebri](https://www.linkedin.com/in/dhia-elhak-toukebri/)
